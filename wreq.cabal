@@ -88,8 +88,8 @@ library
     Network.Wreq.Lens
     Network.Wreq.Session
     Network.Wreq.Types
-  other-modules:
     Network.Wreq.Internal
+  other-modules:
     Network.Wreq.Internal.AWS
     Network.Wreq.Internal.Lens
     Network.Wreq.Internal.Link
