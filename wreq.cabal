@@ -89,12 +89,12 @@ library
     Network.Wreq.Session
     Network.Wreq.Types
     Network.Wreq.Internal
+    Network.Wreq.Internal.Types
   other-modules:
     Network.Wreq.Internal.AWS
     Network.Wreq.Internal.Lens
     Network.Wreq.Internal.Link
     Network.Wreq.Internal.OAuth1
-    Network.Wreq.Internal.Types
     Network.Wreq.Lens.Machinery
     Network.Wreq.Lens.TH
     Paths_wreq
